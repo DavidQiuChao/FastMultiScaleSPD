@@ -8,9 +8,7 @@ Just run the python command 'pthon main.py -i seq_path'. The 'seq_path' is the p
 
 ## Results(Kluki,CaveB,Venice,Garden)
 
-![Kluki](https://github.com/DavidQiuChao/FastMultiScaleSPD/blob/main/tmp.jpg)
-![CaveB](https://github.com/DavidQiuChao/FastMultiScaleSPD/blob/main/tmp1.jpg)
+![Kluki](https://github.com/DavidQiuChao/FastMultiScaleSPD/blob/main/tmp.jpg) ![CaveB](https://github.com/DavidQiuChao/FastMultiScaleSPD/blob/main/tmp1.jpg)
 
-![Venice](https://github.com/DavidQiuChao/FastMultiScaleSPD/blob/main/tmp2.jpg)
-![Garden](https://github.com/DavidQiuChao/FastMultiScaleSPD/blob/main/tmp3.jpg)
+![Venice](https://github.com/DavidQiuChao/FastMultiScaleSPD/blob/main/tmp2.jpg) ![Garden](https://github.com/DavidQiuChao/FastMultiScaleSPD/blob/main/tmp3.jpg)
 
