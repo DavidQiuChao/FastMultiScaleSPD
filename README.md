@@ -4,7 +4,7 @@ This is an unofficial Python implement of "Fast Multi-Scale Structural Patch Dec
 
 ## How to run the code
 
-Just run the python command 'pthon main.py -i seq_path'. The 'seq_path' is the path for multi-exposure sequential directory.
+Just run the python command 'python main.py -i seq_path'. The 'seq_path' is the path for multi-exposure sequential directory.
 
 ## Results(Kluki,CaveB,Venice,Garden)
 
